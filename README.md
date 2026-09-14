@@ -4,7 +4,7 @@
 
 ## Team
 
-- Aayan — [GitHub profile](#) *(add your GitHub profile link)*
+- Aayan — [aayan801](#) 
 - Abdullah — [GitHub profile](#) *(add GitHub profile link)*
 - Gillani — [GitHub profile](#) *(add GitHub profile link)*
 
