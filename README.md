@@ -5,8 +5,8 @@
 ## Team
 
 - Aayan — [aayan801](#) 
-- Abdullah — [GitHub profile](#) *(add GitHub profile link)*
-- Gillani — [GitHub profile](#) *(add GitHub profile link)*
+- Abdullah — [Alphaspirit1908](#) *(add GitHub profile link)*
+- Gillani — [muhammad322](#) *(add GitHub profile link)*
 
 ## What and Why?
 
